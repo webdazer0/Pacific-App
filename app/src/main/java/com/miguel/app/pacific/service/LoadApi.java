@@ -6,10 +6,10 @@ import android.os.AsyncTask;
 import android.util.Log;
 import android.widget.GridView;
 
-import com.miguel.app.pacific.view.Square;
+import com.miguel.app.pacific.model.Square;
 import com.miguel.app.pacific.view.adapter.MyAdapter;
-import com.miguel.app.pacific.view.Ocean;
-import com.miguel.app.pacific.view.PacificType;
+import com.miguel.app.pacific.model.Ocean;
+import com.miguel.app.pacific.model.PacificType;
 
 import org.json.JSONArray;
 import org.json.JSONObject;

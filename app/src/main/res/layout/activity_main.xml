@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/custom_gradient"
-    tools:context=".MainActivity">
+    tools:context=".view.MainActivity">
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -74,11 +74,11 @@
                 android:text="100x"
                 android:textAllCaps="false" />
 
-            <Button
-                android:id="@+id/btn_see"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:text="see" />
+<!--            <Button-->
+<!--                android:id="@+id/btn_see"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="see" />-->
         </LinearLayout>
 
         <TextView

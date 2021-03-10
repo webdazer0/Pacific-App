@@ -1,4 +1,4 @@
-package com.miguel.app.pacific.view;
+package com.miguel.app.pacific.model;
 
 public class  Ocean {
     private Square[][] map;

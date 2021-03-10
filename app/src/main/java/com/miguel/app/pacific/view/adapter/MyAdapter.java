@@ -8,8 +8,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 import android.widget.TextView;
 
-import com.miguel.app.pacific.view.Square;
-import com.miguel.app.pacific.view.PacificType;
+import com.miguel.app.pacific.model.Square;
+import com.miguel.app.pacific.model.PacificType;
 import com.miguel.app.pacific.R;
 
 public class MyAdapter extends BaseAdapter {

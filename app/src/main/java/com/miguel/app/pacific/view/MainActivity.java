@@ -1,4 +1,4 @@
-package com.miguel.app.pacific;
+package com.miguel.app.pacific.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -11,10 +11,11 @@ import android.widget.GridView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.miguel.app.pacific.R;
 import com.miguel.app.pacific.service.LoadApi;
-import com.miguel.app.pacific.view.PacificType;
+import com.miguel.app.pacific.model.PacificType;
 import com.miguel.app.pacific.view.adapter.MyAdapter;
-import com.miguel.app.pacific.view.Ocean;
+import com.miguel.app.pacific.model.Ocean;
 
 public class MainActivity extends AppCompatActivity {
 
