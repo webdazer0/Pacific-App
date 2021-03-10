@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@android:id/progress">
+        <shape android:shape="rectangle" >
+            <gradient
+                android:startColor="#46A0AE"
+                android:type="linear"
+                android:centerY="0.25"
+                android:centerX="0.5"
+                android:right="5dp"
+                android:centerColor="#00FFCB"
+                android:endColor="#46A0AE"
+
+                android:angle="45"/>
+<!--            <corners android:radius="60dp"/>-->
+
+        </shape>
+    </item>
+</selector>
